@@ -51,7 +51,7 @@ const App: () => Node = () => {
         <Stack.Screen name='Dmap' component={Dmap} />
       </Stack.Navigator>
     </NavigationContainer>
-   
+//This is our code
   );
 };
 
